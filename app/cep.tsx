@@ -63,7 +63,7 @@ const styles = StyleSheet.create({
         padding: 20,
     },
     input: {
-        width: '100%',
+        width: '36%',
         height: 50,
         borderWidth: 1,
         borderColor: '#ccc',
